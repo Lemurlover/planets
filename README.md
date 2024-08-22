@@ -1,1 +1,1 @@
-Practical on learning git version control and GitHub
+Practical on learning git and GitHub 
